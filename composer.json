@@ -1,0 +1,18 @@
+{
+	"name" : "theicon/nzpost",
+	"description" : "Magento 2 NZ Post shipping module",
+	"support" : {
+		"email" : "support@theicon.co.nz"
+	},
+	"homepage" : "https://theicon.co.nz/magento2/nzpost",
+	"authors" : [{
+			"name" : "Don Nuwinda Udugala",
+			"email" : "support@theicon.co.nz",
+			"homepage" : "https://theicon.co.nz"
+		}
+	],
+	"require" : {
+		"php" : "~5.5.0|~5.6.0|~7.0.0",
+		"theiconnz/base" : "0.0.1"
+	}
+}
