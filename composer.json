@@ -1,5 +1,5 @@
 {
-	"name" : "theiconnz/nzpost",
+	"name" : "theicon/nzpost",
 	"description" : "Magento 2 NZ Post shipping module",
 	"support" : {
 		"email" : "support@theicon.co.nz"
@@ -11,18 +11,8 @@
 			"homepage" : "https://theicon.co.nz"
 		}
 	],
-	"version": "0.0.1",
-	"minimum-stability":"stable",
 	"require" : {
 		"php" : "~5.5.0|~5.6.0|~7.0.0",
 		"theiconnz/base" : "0.0.1"
-	},
-	"autoload": {
-		"files": [
-		    "registration.php"
-		],
-		"psr-4": {
-		    "Theiconnz\\Nzpost\\": ""
-		}
-	    }
+	}
 }
